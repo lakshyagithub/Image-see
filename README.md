@@ -1,3 +1,3 @@
 # Image-see
 See an image in this website!
-# By Lakshya
+# Link: https://lakshyagithub.github.io/Image-see/
